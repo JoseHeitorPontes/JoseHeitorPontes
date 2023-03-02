@@ -2,8 +2,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseHeitorPontes&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseHeitorPontes&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias que uso
 
 <div style="display: inline_block;">
