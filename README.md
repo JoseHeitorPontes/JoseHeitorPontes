@@ -1,4 +1,4 @@
-### Olá, meu nome é Heitor 👋
+### Hellow, my name is Heitor 👋
 ![Heitor GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseHeitorPontes&show_icons=true&theme=synthwave)
 ### Tecnologias que eu uso
 <div style="display: inline-block;">
